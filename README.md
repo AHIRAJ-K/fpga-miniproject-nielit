@@ -4,7 +4,7 @@ This repository showcases a mini project completed during the **Online Lab Works
 
 ---
 
-## 📌 Objective
+## Objective
 
 - Implement a modular digital system on FPGA using Verilog HDL
 - Use virtual I/O cores and IP counter
@@ -14,7 +14,7 @@ This repository showcases a mini project completed during the **Online Lab Works
 
 ---
 
-## 🔧 Verilog HDL Modules
+## Verilog HDL Modules
 
 This design includes:
 - 4:1 Multiplexer (Dataflow)
@@ -26,7 +26,7 @@ This design includes:
 
 ---
 
-## 🧪 Simulation
+## Simulation
 
 - Testbench: `tb_miniproject.v`
 - Waveforms generated using Vivado simulator
@@ -35,7 +35,7 @@ This design includes:
 
 ---
 
-## 🔁 Bitstream
+## Bitstream
 
 - Synthesized `.bit` file for FPGA implementation
 
@@ -43,19 +43,19 @@ This design includes:
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 📁 See: [`05_report/`](./05-report/Miniproject.pdf)
 
 ---
 
-## 🏆 Certificate
+## Certificate
 
 📁 See: [`06_certificate/`](./06-certificate/Certificate.jpg)
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Language**: Verilog HDL  
 - **Tool**: Xilinx Vivado  
