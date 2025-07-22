@@ -10,7 +10,7 @@ This repository showcases a mini project completed during the **Online Lab Works
 - Use virtual I/O cores and IP counter
 - Simulate, synthesize, and generate bitstream using Xilinx Vivado
 
-📁 See: [`01_objective/`](./01_objective/)
+📁 See: [`01_Objective/`](./01_Objective/)
 
 ---
 
