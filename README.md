@@ -10,7 +10,7 @@ This repository showcases a mini project completed during the **Online Lab Works
 - Use virtual I/O cores and IP counter
 - Simulate, synthesize, and generate bitstream using Xilinx Vivado
 
-📁 See: [`01_Objective/`](./01_Objective/)
+📁 See: [`01_Objective/`](./01-Objective/)
 
 ---
 
@@ -22,7 +22,7 @@ This design includes:
 - 4-bit Latch (Behavioral)
 - IP-based Counter
 
-📁 See: [`02_verilog_modules/`](./02_verilog_modules/)
+📁 See: [`02_verilog_modules/`](./02-verilog-modules/)
 
 ---
 
@@ -31,7 +31,7 @@ This design includes:
 - Testbench: `tb_miniproject.v`
 - Waveforms generated using Vivado simulator
 
-📁 See: [`03_simulation/`](./03_simulation/)
+📁 See: [`03_simulation/`](./03-simulation/)
 
 ---
 
@@ -39,19 +39,19 @@ This design includes:
 
 - Synthesized `.bit` file for FPGA implementation
 
-📁 See: [`04_bitstream/`](./04_bitstream/)
+📁 See: [`04_bitstream/`](./04-bitstream/)
 
 ---
 
 ## 📄 Project Report
 
-📁 See: [`05_report/`](./05_report/)
+📁 See: [`05_report/`](./05-report/Miniproject.pdf)
 
 ---
 
 ## 🏆 Certificate
 
-📁 See: [`06_certificate/`](./06_certificate/)
+📁 See: [`06_certificate/`](./06-certificate/Certificate.jpg)
 
 ---
 
