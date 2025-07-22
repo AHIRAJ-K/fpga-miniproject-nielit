@@ -17,7 +17,7 @@ This folder contains the synthesized **bitstream file** for the FPGA mini projec
 1. Open **Vivado Hardware Manager**
 2. Connect your FPGA development board via **JTAG**
 3. Add the hardware target and establish the connection
-4. Load and program the FPGA using `miniproject.bit`
+4. Load and program the FPGA using `Miniproject.bit`
 5. Observe the output through **ChipScope** or external output pins (as configured)
 
 ---
