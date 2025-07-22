@@ -17,5 +17,5 @@
 
 ### 🔷 Project Architecture Diagram
 
-![Project Diagram](./project_diagram.png)
+![Project Diagram](./01_Objective/project-diagram.png)
 
