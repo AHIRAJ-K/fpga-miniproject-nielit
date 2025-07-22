@@ -13,3 +13,9 @@
 4. Use a **2-bit Counter** using Xilinx IP Core.
 5. Integrate all modules in `miniproject.v` and implement the design on the FPGA kit.
 
+---
+
+### 🔷 Project Architecture Diagram
+
+![Project Diagram](./project_diagram.png)
+
