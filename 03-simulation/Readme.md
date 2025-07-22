@@ -4,7 +4,7 @@ This folder contains the simulation testbench and output results for the FPGA mi
 
 ## Testbench Overview
 
-**File**: `tb_miniproject.v`
+**File**: `tb-miniproject.v`
 
 - Simulates the top-level module `miniproject.v`
 - Generates a 100 MHz clock signal (10 ns period)
@@ -15,7 +15,7 @@ This folder contains the simulation testbench and output results for the FPGA mi
 
 1. Open your Vivado project
 2. Add all Verilog source files from `02-verilog-modules/`
-3. Set `tb_miniproject.v` as the top module for simulation
+3. Set `tb-miniproject.v` as the top module for simulation
 4. Run **Behavioral Simulation**
 5. Observe the output waveform in the simulator
 
