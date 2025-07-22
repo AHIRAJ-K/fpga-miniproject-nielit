@@ -2,7 +2,7 @@
 
 This folder contains the synthesized **bitstream file** for the FPGA mini project implemented on real FPGA hardware.
 
-## File: `miniproject.bit`
+## File: `Miniproject.bit`
 
 - Generated using **Xilinx Vivado**
 - Represents the complete design including:
