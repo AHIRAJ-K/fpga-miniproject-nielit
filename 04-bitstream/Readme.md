@@ -2,7 +2,7 @@
 
 This folder contains the synthesized **bitstream file** for the FPGA mini project implemented on real FPGA hardware.
 
-## 🔁 File: `miniproject.bit`
+## File: `miniproject.bit`
 
 - Generated using **Xilinx Vivado**
 - Represents the complete design including:
@@ -12,7 +12,7 @@ This folder contains the synthesized **bitstream file** for the FPGA mini projec
   - 2-bit IP Counter
 - Used to program the physical FPGA board during the lab workshop at NIELIT Calicut
 
-## 🚀 How to Use on Real Hardware
+## How to Use on Real Hardware
 
 1. Open **Vivado Hardware Manager**
 2. Connect your FPGA development board via **JTAG**
